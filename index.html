@@ -341,8 +341,8 @@ footer{padding:32px 48px;border-top:1px solid var(--border);display:flex;justify
             Aplicación web multi-página de promoción turística para el estado de Colima — Ciudad de Colima, Manzanillo y Coquimatlan. Interfaz principal de una propuesta que obtuvo el 1er lugar en el track de Turismo del IAFest 2023.
           </p>
           <div class="project-links">
-            <a href="#" onclick="openDragonbin(); return false;" class="project-link-btn primary-link">
-              <i class="fas fa-play" style="font-size:11px"></i> Ver demo local
+            <a href="./dragonbin/index.html" target="_blank" class="project-link-btn primary-link">
+              <i class="fas fa-arrow-up-right-from-square" style="font-size:12px"></i> Ver proyecto
             </a>
           </div>
           <div class="project-tech-list">
@@ -674,10 +674,6 @@ const skillsObserver = new IntersectionObserver((entries) => {
 const skillsSection = document.getElementById('skills');
 if (skillsSection) skillsObserver.observe(skillsSection);
 
-// Dragonbin demo note
-function openDragonbin() {
-  alert('Dragonbin es un proyecto local (HTML/CSS). Para verlo, descarga el ZIP desde el portafolio o contáctame directamente.');
-}
 </script>
 </body>
 </html>
