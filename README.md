@@ -14,25 +14,25 @@
 
 ---
 
-## 👨‍💻 About
+## About
 
 3+ years building end-to-end platforms — interface design, backend logic, and database architecture. My projects go beyond academic exercises: they solve real problems in accessibility, urban mobility, and agriculture, and have been recognized in national and international competitions.
 
 ---
 
-## 🏆 Recognition
+## Recognition
 
 | Year | Competition | Project | Result |
 |------|------------|---------|--------|
-| 2024 | Techstars Startup Weekend AgriFuture & WaterTech | GEOMA | 🥇 1st Place |
-| 2023 | IAFest — Tourism Track · TecNM Campus Colima | Dragonbin | 🥇 1st Place |
-| 2023 | Techstars Startup Weekend Colima | — | 🥇 1st Place |
+| 2024 | Techstars Startup Weekend AgriFuture & WaterTech | GEOMA | 1st Place |
+| 2023 | IAFest — Tourism Track · TecNM Campus Colima | Dragonbin | 1st Place |
+| 2023 | Techstars Startup Weekend Colima | — | 1st Place |
 | 2025 | FEMECI Colima | — | Participant |
 | 2026 | InnovaTecNM | NAVIA | Participant |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [NAVIA](https://github.com/TacosAlPastorMX/SINAIT-APP) — Accessible Campus Navigation
 Indoor/outdoor navigation app for TecNM Campus, targeting students with visual or mobility impairments. Real-time routes via Firebase Firestore with BLoC architecture.
@@ -75,7 +75,7 @@ DevOps      │ Git · GitHub · Linux (Nobara/Fedora) · CLI
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Cisco Network Technician** — Cisco Career Path *(Apr 2026)*
 - **Cisco Networking Basics** — Cisco *(Dec 2023)*
@@ -83,7 +83,7 @@ DevOps      │ Git · GitHub · Linux (Nobara/Fedora) · CLI
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.S. in Computer Systems Engineering** *(Aug 2023 – Aug 2028)*
 Tecnológico Nacional de México — Campus Colima
@@ -93,12 +93,12 @@ Universidad de Colima — Bachillerato 16
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 [santago1991@gmail.com](mailto:santago1991@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/santiago-garcía-garcía-71a982220)
-- 🐙 [GitHub @SantiagoPro1](https://github.com/SantiagoPro1)
-- 📍 Colima, México — open to remote
+- [santago1991@gmail.com](mailto:santago1991@gmail.com)
+- [LinkedIn](https://linkedin.com/in/santiago-garcía-garcía-71a982220)
+- [GitHub @SantiagoPro1](https://github.com/SantiagoPro1)
+- Colima, México — open to remote
 
 ---
 
