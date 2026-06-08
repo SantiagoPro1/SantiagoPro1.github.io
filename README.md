@@ -48,21 +48,21 @@ Indoor/outdoor navigation app for TecNM Campus, targeting students with visual o
 
 ---
 
-### [GEOMA](https://geomas.softr.app/) — AgTech Satellite Monitoring · 🥇 Techstars 2024
+### [GEOMA](https://geomas.softr.app/) — AgTech Satellite Monitoring · Techstars 2024
 Combines satellite imagery (Sentinel-2, Landsat 8, WorldView-3) with AI models for early HLB detection in lime crops and irrigation optimization (−30% water usage projected). Freemium/Basic/Premium SaaS model.
 
 `Frontend` `AI / Predictive models` `Satellite imagery` `SaaS`
 
 ---
 
-### Dragonbin — Tourism Web App · 🥇 IAFest 2023
+### Dragonbin — Tourism Web App · IAFest 2023
 Multi-page tourism promotion site for the state of Colima (Ciudad de Colima, Manzanillo, Coquimatlan). 1st place in the Tourism track at IAFest 2023, TecNM Campus Colima.
 
 `HTML5` `CSS3` `JavaScript` `Bootstrap`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```
 Mobile      │ Flutter / Dart · Android Studio
